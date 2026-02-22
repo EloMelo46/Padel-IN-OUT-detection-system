@@ -45,26 +45,3 @@ The system is built using the following hardware components:
 - Wooden base structure for prototype integration
 
 All electronic components are integrated inside a custom-built electrical control enclosure.
-
-## Results
-
-### Control Box 
-![Control_Box_1](media/Control_box_1.jpg)
-
-![Control_Box_2](media/Control_box_2.jpg)
-
-![Control_Box_3](media/Control_box_3.jpg)
-
-
-## Scaled Padel Court Test Platform
-
-### Test Platform 1
-![Padel Court Test Platform 1](media/Padel_Court_Test_Platform_1.jpg)
-
-![Padel Court Test Platform 2](media/Padel_Court_Test_Platform_2.jpg)
-
-
-## Demonstration
-
-### System Test Video
-[Watch test demonstration](media/test.mp4)
