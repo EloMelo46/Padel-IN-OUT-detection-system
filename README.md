@@ -49,11 +49,11 @@ All electronic components are integrated inside a custom-built electrical contro
 ## Results
 
 ### Control Box 
-![Control Box 1](media/Control_box_1.jpg)
+![Control_Box_1](media/Control_box_1.jpg)
 
-![Control Box 2](media/Control_box_2.jpg)
+![Control_Box_2](media/Control_box_2.jpg)
 
-![Control Box 3](media/Control_box_3.jpg)
+![Control_Box_3](media/Control_box_3.jpg)
 
 
 ## Scaled Padel Court Test Platform
